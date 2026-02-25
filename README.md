@@ -4,7 +4,7 @@
 
 - Full-stack engineer at Viaero Wireless.
 - Most practiced in Typescript, Rust, and Postgres.
-- The key to suces is continual improvement, failing fast, and learning from mistakes.
+- The key to success is continual improvement, failing fast, and learning from mistakes.
 - [mattkbrat.com](https://www.mattkbrat.com).
 - I love to cook!
 
